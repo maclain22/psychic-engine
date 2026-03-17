@@ -1,0 +1,15 @@
+body {
+font-family: Inter, system-ui, -apple-system, Arial, sans-serif;
+padding: 24px;
+background: #fafafa;
+}
+
+
+button {
+background: #111;
+color: #fff;
+border: 0;
+padding: 8px 10px;
+border-radius: 6px;
+cursor: pointer;
+}
